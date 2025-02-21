@@ -28,7 +28,8 @@ Password : 123
 <img src="https://github.com/Rapyyy425/kasirwendic/blob/main/Nama%20Toko.jpg?raw=true">
 
 - Profile
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/8.png">
+<img src="![image](https://github.com/user-attachments/assets/9f495e65-de6a-4179-a064-1faf1b7496a2)
+">
 
 
 
