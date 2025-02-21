@@ -42,7 +42,7 @@ Password : 123
 - Nama Toko 
 <img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/7.png">
 
-- Atur User 
+- Profile
 <img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/8.png">
 
 ## Contoh Program V1
