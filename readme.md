@@ -13,7 +13,7 @@ Password : 123
 <img src="https://github.com/Rapyyy425/kasirwendic/blob/main/Dasboard.jpg?raw=true">
 
 - Tabel Barang
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/3.png">
+<img src="https://github.com/Rapyyy425/kasirwendic/blob/main/Tabel%20Barang.jpg?raw=true">
 
 - Kategori
 <img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/4.png">
