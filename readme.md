@@ -19,7 +19,7 @@ Password : 123
 <img src="https://github.com/Rapyyy425/kasirwendic/blob/main/Tabel%20Kategori.jpg?raw=true">
 
 - Keranjang / Transaksi
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/5.png">
+<img src="https://github.com/Rapyyy425/kasirwendic/blob/main/Transaksi%20Jual.jpg?raw=true">
 
 - Laporan 
 <img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/6.png">
