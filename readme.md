@@ -25,7 +25,7 @@ Password : 123
 <img src="https://github.com/Rapyyy425/kasirwendic/blob/main/Laporan.jpg?raw=true">
 
 - Nama Toko 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/7.png">
+<img src="https://github.com/Rapyyy425/kasirwendic/blob/main/Nama%20Toko.jpg?raw=true">
 
 - Profile
 <img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/8.png">
