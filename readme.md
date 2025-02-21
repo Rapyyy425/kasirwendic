@@ -110,4 +110,3 @@ Warning: session_start(): Cannot send session cookie - headers already sent by (
 
 My Blog : <a href="https://www.codekop.com/"> Codekop.com</a>
 
-Gunakan Aplikasi dengan bijak, dan Selamat Belajar
