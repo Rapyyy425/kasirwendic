@@ -10,7 +10,7 @@ Password : 123
 <img src="https://github.com/Rapyyy425/kasirwendic/blob/main/WhatsApp%20Image%202025-02-21%20at%2021.03.49_f05387cc.jpg?raw=true">
 
 - Dashboard 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/2.png">
+<img src="https://github.com/Rapyyy425/kasirwendic/blob/main/Dasboard.jpg?raw=true">
 
 - Tabel Barang
 <img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/3.png">
