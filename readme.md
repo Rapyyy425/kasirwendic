@@ -5,7 +5,7 @@ Password : 123
 <br>
 <span style="color:red">* Penggunaan Login untuk <b>single User</b> </span>
 
-## Contoh Program V2
+## Beberapa Tampilan Web Kasir 
 - Login
 <img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/1.png">
 
